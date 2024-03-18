@@ -1,0 +1,14 @@
+img{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    margin-left: 100px;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+}

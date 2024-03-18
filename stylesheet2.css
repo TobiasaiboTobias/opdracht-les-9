@@ -1,0 +1,18 @@
+table,
+th,
+tr,
+td,
+tbody {
+  text-align: left;
+  border: 10px solid red;
+  width: 800px;
+  height: 100px;
+}
+
+.center{
+    text-align: center;
+}
+
+body {
+  background-color: aquamarine;
+}
